@@ -12,7 +12,6 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-    
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/>
