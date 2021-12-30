@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
 - 🌎 I'm living in Israel.
 - 🔭 I'm currently looking for a student position.
-- 👩‍💻 My latest project I worked on - ![alt text](https://i.ibb.co/wBV34fB/icon.png) **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
+- 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - ![alt text](https://i.ibb.co/wBV34fB/icon.png) **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
 - 📫 How to reach me - **Dorinbeery@gmail.com**
 
 ## 🚀 Languages and Tools
