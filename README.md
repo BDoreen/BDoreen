@@ -9,17 +9,20 @@
 - 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - ![alt text](https://i.ibb.co/wBV34fB/icon.png) **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
 - 📫 How to reach me - **dorinbeery@gmail.com**
 
-## 🚀 Languages and Tools
-
+## 🚀 Languages
 <p align="left">
-    <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
-    <img src="https://img.icons8.com/color/50/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <img src="https://i.ibb.co/dkmDKzC/opengl.png"/>
+    <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ title="C">
+    <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/ title="Java">
+    <img src="https://i.ibb.co/dkmDKzC/opengl.png"/ title="OpenGL">
+</p>
+
+## 🚀 Tools
+<p align="left">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
+<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/ title="VSCode">
+<img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/ title="VSEnterprise">
+<img src="https://img.icons8.com/color/50/000000/linux--v1.png"/ title="Linux">
+<img src="https://img.icons8.com/color/50/000000/git.png"/ title="Git">
 </p>
 
 ## 📚 Currently Studing
