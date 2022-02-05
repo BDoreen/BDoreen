@@ -7,7 +7,7 @@
 - 🌎 I'm living in Israel.
 - 🔭 I'm currently looking for a student position.
 - 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - ![alt text](https://i.ibb.co/wBV34fB/icon.png) **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
-- 📫 How to reach me - **Dorinbeery@gmail.com**
+- 📫 How to reach me - **dorinbeery@gmail.com**
 
 ## 🚀 Languages and Tools
 
@@ -18,12 +18,13 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
     <img src="https://img.icons8.com/color/50/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+    <img src="https://i.ibb.co/dkmDKzC/opengl.png"/>
 </p>
 
 ## 📚 Currently Studing
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <img src="https://i.ibb.co/dkmDKzC/opengl.png"/>
+<img src="https://www.softicons.com/ic/result/0358edec2ce521bd39f7b03f94b73a19-32bits-48.png"/>
 </p>
 
 ## 📞 Contact Me
