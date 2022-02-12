@@ -27,7 +27,7 @@
 
 ## 📚 Currently Studing
 <p align="left">
-<img src="https://www.softicons.com/ic/result/0358edec2ce521bd39f7b03f94b73a19-32bits-48.png"/>
+<img src="https://user-images.githubusercontent.com/66797449/153720412-2d60ddc4-3c68-449e-8db6-e4b2130d83ee.png"/ title="CPP">
 </p>
 
 ## 📞 Contact Me
