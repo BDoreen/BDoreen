@@ -13,7 +13,7 @@
 <p align="left">
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ title="C">
     <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/ title="Java">
-    <img src="https://i.ibb.co/dkmDKzC/opengl.png"/ title="OpenGL">
+    <img src="https://i.ibb.co/x57gVbz/opengl.png"/ title="OpenGL">
 </p>
 
 ## <img src="https://www.softicons.com/ic/result/f43efe8aeca85caa05d22f2dfc738465-32bits-32.png"/> Tools
