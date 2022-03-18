@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
 - 🌎 I'm living in Israel.
-- 🔭 I'm currently looking for a student position.
-- 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - ![alt text](https://i.ibb.co/wBV34fB/icon.png) **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
+- 🔭 I'm currently working as a low-level developer at Rogat Engineering.
+- 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
 - 📫 How to reach me - **dorinbeery@gmail.com**
 
 ## 🚀 Languages
@@ -16,7 +16,8 @@
     <img src="https://i.ibb.co/x57gVbz/opengl.png"/ title="OpenGL">
 </p>
 
-## <img src="https://www.softicons.com/ic/result/f43efe8aeca85caa05d22f2dfc738465-32bits-32.png"/> Tools
+
+## <img src="https://img.icons8.com/emoji/28/000000/hammer-and-wrench.png"/> Tools
 <p align="left">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
 <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/ title="VSCode">
