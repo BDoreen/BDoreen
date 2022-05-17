@@ -13,7 +13,6 @@
 <p align="left">
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ title="C">
     <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/ title="Java">
-    <img src="https://i.ibb.co/x57gVbz/opengl.png"/ title="OpenGL">
 </p>
 
 
@@ -28,7 +27,7 @@
 
 ## 📚 Currently Studing
 <p align="left">
-<img src="https://user-images.githubusercontent.com/66797449/153720412-2d60ddc4-3c68-449e-8db6-e4b2130d83ee.png"/ title="CPP">
+
 </p>
 
 ## 📞 Contact Me
