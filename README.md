@@ -27,7 +27,7 @@
 
 ## 📚 Currently Studing
 <p align="left">
-
+<a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539903-049b7468-ca94-4485-93ee-c17a70032acb.svg" title="Python" width="45" height="60"/></a>
 </p>
 
 ## 📞 Contact Me
