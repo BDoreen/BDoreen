@@ -3,10 +3,10 @@
 
 ## 👩‍🎓 About Me
 
-- 🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
-- 🌎 I'm living in Israel.
-- 🔭 I'm currently working as a software developer.
-- 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
+- 🌎 I’m a Software Engineer Student (B.Sc.) at ORT Braude College, 4th year.
+- 🔭 I'm currently working as a *Software Developer* at Rogat Engineering.
+- 👩‍💻 Lastest project during my academic studies with classmates - **[G2-Zli](https://github.com/DorinBe/G2-ZLI)**
+- 🌱 Currently working on a personal project with friends engaged with Robotics and AI
 - 📫 How to reach me - **dorinbeery@gmail.com**
 
 ## 🚀 Languages
