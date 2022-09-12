@@ -19,12 +19,13 @@
 
 ## <img src="https://img.icons8.com/emoji/28/000000/hammer-and-wrench.png"/> Tools
 <p align="left">
+<img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/ title="Visual Studio">
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/ title="PyCharm">
+<img src="https://img.icons8.com/color/48/000000/pandas.png"/ title="Pandas">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
 <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/ title="VSCode">
-<img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/ title="VSEnterprise">
 <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/ title="Linux">
 <img src="https://img.icons8.com/color/50/000000/git.png"/ title="Git">
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/ title="PyCharm">
 <img src="https://img.icons8.com/color/48/000000/jira.png"/ title="Jira">
 </p>
 
