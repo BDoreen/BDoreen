@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
 - 🌎 I'm living in Israel.
-- 🔭 I'm currently working as a low-level developer at Rogat Engineering.
+- 🔭 I'm currently working as a software developer.
 - 👩‍💻 The latest project I worked on is with javaFX, I've studied it for couple of days - **[MineMeoper](https://github.com/BDoreen/MineSweeper)**
 - 📫 How to reach me - **dorinbeery@gmail.com**
 
@@ -13,6 +13,7 @@
 <p align="left">
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ title="C">
     <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/ title="Java">
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/ title="Python">
 </p>
 
 
@@ -23,11 +24,13 @@
 <img src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png"/ title="VSEnterprise">
 <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/ title="Linux">
 <img src="https://img.icons8.com/color/50/000000/git.png"/ title="Git">
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/ title="PyCharm">
+<img src="https://img.icons8.com/color/48/000000/jira.png"/ title="Jira">
 </p>
 
 ## 📚 Currently Studing
 <p align="left">
-<a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539903-049b7468-ca94-4485-93ee-c17a70032acb.svg" title="Python" width="45" height="60"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" title="C#"/></a>
 </p>
 
 ## 📞 Contact Me
