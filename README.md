@@ -5,8 +5,6 @@
 
 - 🌎 I’m a Software Engineer Student (B.Sc.) at ORT Braude College, 4th year.
 - 🔭 I'm currently working as a *Software Developer* at Rogat Engineering.
-- 👩‍💻 Lastest project I've worked on -  **[PySurfs](https://github.com/DorinBe/PySurfs)**
-- 🌱 Currently working on a personal project with friends engaged with Robotics and AI
 - 📫 How to reach me - **dorinbeery@gmail.com**
 
 ## 🚀 Languages
