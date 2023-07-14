@@ -38,6 +38,6 @@
 
 ## 📞 Contact Me
 <p align="left">
-    <a href="https://www.linkedin.com/in/dorin-beery-4688b6201/" target="_blank" title="Dorin's Linkedin"> <img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/dorinbeery/" target="_blank" title="Dorin's Linkedin"> <img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
     <a href="mailto:Dorinbeery@gmail.com" title="Dorin's Mail"> <img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 </p>
