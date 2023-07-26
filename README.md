@@ -29,6 +29,8 @@
 <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg"/ width="48" height="48" title="Falcon">
 <img src="https://img.icons8.com/color/48/000000/pandas.png"/ title="Pandas">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
+<img src="https://www.techmezine.com/wp-content/uploads/2017/03/STMicroelectronicslogo.png"/ width="48" height="48" title="STM32">
+    
 </p>
 
 ## 📚 Currently Studing
