@@ -26,14 +26,14 @@
 <img src="https://img.icons8.com/color/48/null/postgreesql.png"/ title="Postgres">
 <img src="https://img.imgy.org/DvkY.jpg"/ title="SqlAlchemy">
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/ title="PyCharm">
-<img src="https://www.simpleimageresizer.com/_uploads/photos/b19ef6b0/falconPython_48x48.png"/ title="Falcon">
+<img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg"/ width="48" height="48" title="Falcon">
 <img src="https://img.icons8.com/color/48/000000/pandas.png"/ title="Pandas">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
 </p>
 
 ## 📚 Currently Studing
 <p align="left">
-<a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" title="C#"/></a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/ title="GCP">
 </p>
 
 ## 📞 Contact Me
