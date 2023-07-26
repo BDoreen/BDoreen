@@ -20,7 +20,7 @@
 <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/ title="VSCode">
 <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/ title="Linux">
 <img src="https://img.icons8.com/color/50/000000/git.png"/ title="Git">
-<img src="https://img.icons8.com/ios/48/null/github--v1.png"/ title="GitHub>
+<img src="https://img.icons8.com/ios/48/null/github--v1.png"/ title="GitHub">
 <img src="https://img.icons8.com/color/48/null/redis.png"/ title="Redis">
 <img src="https://img.icons8.com/color/48/null/docker.png"/ title="Docker">
 <img src="https://img.icons8.com/color/48/null/postgreesql.png"/ title="Postgres">
