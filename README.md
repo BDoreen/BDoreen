@@ -25,6 +25,7 @@
 <img src="https://img.icons8.com/color/48/null/postgreesql.png"/ title="Postgres">
 <img src="https://img.imgy.org/DvkY.jpg"/ title="SqlAlchemy">
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/ title="PyCharm">
+<img src="https://img.icons8.com/ios/50/flask.png" width="48" height="48" title="flask"/>
 <img src="https://falcon.readthedocs.io/en/stable/_static/img/logo.svg"/ width="48" height="48" title="Falcon">
 <img src="https://img.icons8.com/color/48/000000/pandas.png"/ title="Pandas">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/ title="Eclipse">
