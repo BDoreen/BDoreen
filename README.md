@@ -2,14 +2,14 @@
 
 ## 👩‍🎓 About Me
 
-- 🌎 I’m a Software Engineer Student (B.Sc.) at ORT Braude College, 4th year.
-- 🔭 I'm currently working as a *Software Developer* at Rogat Engineering.
-- 📫 How to reach me - **dorinbeery@gmail.com**
+- 🌎 I’m a Software Engineer.
+- 🔭 I'm currently working as a *Embedded & Software Engineer* at SCD.
 
 ## 🚀 Languages
 <p align="left">
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/ title="Python">
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ title="C">
+    <img width="48" height="48" src="https://img.icons8.com/nolan/48/c-sharp-logo.png"/ title="C#">
     <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/ title="Java">
 </p>
 
